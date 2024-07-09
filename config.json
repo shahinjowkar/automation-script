@@ -1,0 +1,21 @@
+{
+    "range": 10000,
+    "rootCoords": [ 5000 , 5000],
+    "localHost": true,
+    "serversInfo":
+    [
+        {"ip" : "127.0.0.1" , "port": 1884,  "coords" :[0,0]},
+        {"ip" : "127.0.0.1" , "port": 1885,  "coords" :[700, 700]},
+        {"ip" : "127.0.0.1" , "port": 1886,  "coords" :[9000, 9000]},
+        {"ip" : "127.0.0.1" , "port": 1887,  "coords" :[8000, 8000]}
+
+
+    ],
+    "test": true,
+    "commands":[
+        {
+            "cmd": "exhaustiveQuery",
+            "args": []
+        }
+    ]
+}

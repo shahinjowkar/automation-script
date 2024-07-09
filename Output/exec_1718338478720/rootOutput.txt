@@ -1,0 +1,252 @@
+####
+Mesh Setup starting....
+####
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Adding root to mesh. Root coordinates: 118, 337
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Lookup table created.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] NEW SERVING REGION: [[0, 0], [0, 1000], [1000, 1000], [1000, 0]]
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Server started.
+[6/14/2024, 12:14:39 AM][Shell_SB_Root_118_337] Connection status: CONNECTED
+> [6/14/2024, 12:14:39 AM][SB_Root_118_337] A new server was added to the mesh: SBS_545_438
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Requesting update with version: 1
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Updating server handles with version: 1
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] WARNING: Trying to connect to itself.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] A new server was added to the mesh: SBS_298_682
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Requesting update with version: 2
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] A new server was added to the mesh: SBS_548_736
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Requesting update with version: 3
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] A new server was added to the mesh: SBS_572_157
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Requesting update with version: 4
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Registered specific handles.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Updated server handles with version: 1
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Updating server handles with version: 2
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] WARNING: Trying to connect to itself.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] NEW SERVING REGION: [[0, 0], [0, 510], [332, 510], [332, 0]]
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Publishing tree to mesh.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Sending add to mesh message to SBS_545_438.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Registered specific handles.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Handle closed for key: SBS_545_438
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Updated server handles with version: 2
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Updating server handles with version: 3
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] WARNING: Trying to connect to itself.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] NEW SERVING REGION: [[0, 0], [0, 510], [332, 510], [332, 0]]
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Publishing tree to mesh.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Sending add to mesh message to SBS_298_682.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Registered specific handles.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Updated server handles with version: 3
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Updating server handles with version: 4
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] WARNING: Trying to connect to itself.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] NEW SERVING REGION: [[0, 0], [0, 510], [332, 510], [332, 0]]
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Publishing tree to mesh.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Sending add to mesh message to SBS_548_736.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Registered specific handles.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Updated server handles with version: 4
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] NEW SERVING REGION: [[0, 0], [0, 510], [332, 510], [332, 0]]
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Publishing tree to mesh.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Sending add to mesh message to SBS_572_157.
+####
+Mesh Setup has ended
+####
+
+####
+TimeStamp : 1 --- Command : performance_5 
+####
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] A new server was added to the mesh: SBS_0_0
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Requesting update with version: 5
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Updating server handles with version: 5
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Registered specific handles.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Handle closed for key: SBS_298_682
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Updated server handles with version: 5
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] NEW SERVING REGION: [[0, 169], [0, 510], [332, 510], [332, 169]]
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Publishing tree to mesh.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Sending add to mesh message to SBS_0_0.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] A new server was added to the mesh: SBS_0_333
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Requesting update with version: 6
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Updating server handles with version: 6
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Registered specific handles.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Updated server handles with version: 6
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] NEW SERVING REGION: [[59, 169], [59, 510], [332, 510], [332, 169]]
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Publishing tree to mesh.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Sending add to mesh message to SBS_0_333.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] A new server was added to the mesh: SBS_0_666
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Requesting update with version: 7
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Updating server handles with version: 7
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Registered specific handles.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337_Lookup] Updated server handles with version: 7
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] NEW SERVING REGION: [[59, 169], [59, 510], [332, 510], [332, 169]]
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Publishing tree to mesh.
+[6/14/2024, 12:14:39 AM][SB_Root_118_337] Sending add to mesh message to SBS_0_666.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] A new server was added to the mesh: SBS_333_0
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Requesting update with version: 8
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Updating server handles with version: 8
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Registered specific handles.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Handle closed for key: SBS_572_157
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Updated server handles with version: 8
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] NEW SERVING REGION: [[59, 169], [59, 510], [332, 510], [332, 169]]
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Publishing tree to mesh.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Sending add to mesh message to SBS_333_0.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] A new server was added to the mesh: SBS_333_333
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Requesting update with version: 9
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Updating server handles with version: 9
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Registered specific handles.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Updated server handles with version: 9
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] NEW SERVING REGION: [[59, 169], [59, 510], [332, 510], [332, 169]]
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Publishing tree to mesh.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Sending add to mesh message to SBS_333_333.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] A new server was added to the mesh: SBS_333_666
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Requesting update with version: 10
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Updating server handles with version: 10
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Registered specific handles.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Updated server handles with version: 10
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] NEW SERVING REGION: [[59, 169], [59, 510], [332, 510], [332, 169]]
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Publishing tree to mesh.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Sending add to mesh message to SBS_333_666.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] A new server was added to the mesh: SBS_666_0
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Requesting update with version: 11
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Updating server handles with version: 11
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] About to register representatives in the subtree.
+(node:40440) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 update listeners added to [LookupTable]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Registered specific handles.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337_Lookup] Updated server handles with version: 11
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] NEW SERVING REGION: [[59, 169], [59, 510], [332, 510], [332, 169]]
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Publishing tree to mesh.
+[6/14/2024, 12:14:40 AM][SB_Root_118_337] Sending add to mesh message to SBS_666_0.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] A new server was added to the mesh: SBS_666_333
+[6/14/2024, 12:14:41 AM][SB_Root_118_337_Lookup] Requesting update with version: 12
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337_Lookup] Updating server handles with version: 12
+[6/14/2024, 12:14:41 AM][SB_Root_118_337_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337_Lookup] Registered specific handles.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337_Lookup] Updated server handles with version: 12
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] NEW SERVING REGION: [[59, 169], [59, 510], [332, 510], [332, 169]]
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Publishing tree to mesh.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Sending add to mesh message to SBS_666_333.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] A new server was added to the mesh: SBS_666_666
+[6/14/2024, 12:14:41 AM][SB_Root_118_337_Lookup] Requesting update with version: 13
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337_Lookup] Updating server handles with version: 13
+[6/14/2024, 12:14:41 AM][SB_Root_118_337_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337_Lookup] Registered specific handles.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337_Lookup] Updated server handles with version: 13
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] NEW SERVING REGION: [[59, 169], [59, 510], [332, 510], [332, 169]]
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Publishing tree to mesh.
+[6/14/2024, 12:14:41 AM][SB_Root_118_337] Sending add to mesh message to SBS_666_666.
+Result:117.77777777777777
+####
+DONE : 2 --- Command : performance_5
+####

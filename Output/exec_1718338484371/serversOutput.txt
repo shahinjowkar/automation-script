@@ -1,0 +1,198 @@
+####
+Mesh Setup starting....
+####
+Starting server on ip 127.0.0.1 and port 1886 at 8528, 3003
+Starting server on ip 127.0.0.1 and port 1887 at 8313, 5770
+Starting server on ip 127.0.0.1 and port 1884 at 588, 7671
+Starting server on ip 127.0.0.1 and port 1885 at 8247, 2333
+[6/14/2024, 12:14:44 AM][SBS_852_300] Server created. Coordinates: 852, 300
+[6/14/2024, 12:14:44 AM][SBS_58_767] Server created. Coordinates: 58, 767
+[6/14/2024, 12:14:44 AM][SBS_831_577] Server created. Coordinates: 831, 577
+[6/14/2024, 12:14:44 AM][SBS_824_233] Server created. Coordinates: 824, 233
+[6/14/2024, 12:14:44 AM][SBS_852_300] Server connected to root.
+[6/14/2024, 12:14:44 AM][SBS_852_300] Subscribed to root topics.
+[6/14/2024, 12:14:44 AM][SBS_824_233] Server connected to root.
+[6/14/2024, 12:14:44 AM][SBS_824_233] Subscribed to root topics.
+[6/14/2024, 12:14:44 AM][SBS_58_767] Server connected to root.
+[6/14/2024, 12:14:44 AM][SBS_58_767] Subscribed to root topics.
+[6/14/2024, 12:14:44 AM][SBS_831_577] Server connected to root.
+[6/14/2024, 12:14:44 AM][SBS_852_300] Server started.
+[6/14/2024, 12:14:44 AM][SBS_831_577] Subscribed to root topics.
+[6/14/2024, 12:14:44 AM][SBS_824_233] Server started.
+[6/14/2024, 12:14:44 AM][SBS_58_767] Server started.
+[6/14/2024, 12:14:44 AM][SBS_831_577] Server started.
+[6/14/2024, 12:14:44 AM][Shell_SBS_852_300] Connection status: CONNECTED
+> [6/14/2024, 12:14:44 AM][Shell_SBS_824_233] Connection status: CONNECTED
+> [6/14/2024, 12:14:44 AM][Shell_SBS_58_767] Connection status: CONNECTED
+> [6/14/2024, 12:14:44 AM][SBS_824_233] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_852_300] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_58_767] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_831_577] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_824_233] WARNING: Received a message from root, but the server is not part of the mesh yet.
+[6/14/2024, 12:14:44 AM][SBS_852_300] WARNING: Received a message from root, but the server is not part of the mesh yet.
+[6/14/2024, 12:14:44 AM][SBS_58_767] WARNING: Received a message from root, but the server is not part of the mesh yet.
+[6/14/2024, 12:14:44 AM][SBS_852_300] Received message from root: /ROOT/mesh/add/SBS_852_300
+[6/14/2024, 12:14:44 AM][SBS_831_577] WARNING: Received a message from root, but the server is not part of the mesh yet.
+[6/14/2024, 12:14:44 AM][SBS_852_300][updateRTable] Updating routing table.
+[6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] Lookup table created.
+[6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] Requesting update with version: 1
+[6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] Updating server handles with version: 1
+[6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:44 AM][Shell_SBS_831_577] Connection status: CONNECTED
+> [6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] Registered specific handles.
+[6/14/2024, 12:14:44 AM][SBS_58_767] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_824_233] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] Updated server handles with version: 1
+[6/14/2024, 12:14:44 AM][SBS_58_767] WARNING: Received a message from root, but the server is not part of the mesh yet.
+[6/14/2024, 12:14:44 AM][SBS_831_577] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_852_300] NEW SERVING REGION: [[0, 259], [0, 1000], [1000, 1000], [1000, 259]]
+[6/14/2024, 12:14:44 AM][SBS_852_300] Successfully added server to mesh.
+[6/14/2024, 12:14:44 AM][SBS_824_233] WARNING: Received a message from root, but the server is not part of the mesh yet.
+[6/14/2024, 12:14:44 AM][SBS_831_577] WARNING: Received a message from root, but the server is not part of the mesh yet.
+[6/14/2024, 12:14:44 AM][SBS_852_300] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_824_233] Received message from root: /ROOT/mesh/add/SBS_824_233
+[6/14/2024, 12:14:44 AM][SBS_852_300][updateRTable] Updating routing table.
+[6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] Requesting update with version: 2
+[6/14/2024, 12:14:44 AM][SBS_852_300] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] Updating server handles with version: 2
+[6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:44 AM][SBS_824_233][updateRTable] Updating routing table.
+[6/14/2024, 12:14:44 AM][SBS_824_233_Lookup] Lookup table created.
+[6/14/2024, 12:14:44 AM][SBS_824_233_Lookup] Requesting update with version: 1
+[6/14/2024, 12:14:44 AM][SBS_824_233_Lookup] Updating server handles with version: 1
+[6/14/2024, 12:14:44 AM][SBS_824_233_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:44 AM][SBS_824_233_Lookup] WARNING: Trying to connect to itself.
+[6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] WARNING: Trying to connect to itself.
+[6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:44 AM][SBS_852_300] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_831_577] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_852_300] WARNING: Received a routing table with a lower or equal version (4) than this routing table (4). No update required.
+[6/14/2024, 12:14:44 AM][SBS_58_767] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_831_577] WARNING: Received a message from root, but the server is not part of the mesh yet.
+[6/14/2024, 12:14:44 AM][SBS_852_300] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_58_767] WARNING: Received a message from root, but the server is not part of the mesh yet.
+[6/14/2024, 12:14:44 AM][SBS_852_300] WARNING: Received a routing table with a lower or equal version (4) than this routing table (4). No update required.
+[6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] Registered specific handles.
+[6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:44 AM][SBS_852_300_Lookup] Updated server handles with version: 2
+[6/14/2024, 12:14:44 AM][SBS_852_300] NEW SERVING REGION: [[455, 259], [455, 439], [1000, 439], [1000, 259]]
+[6/14/2024, 12:14:44 AM][SBS_831_577] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_824_233] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_58_767] Received message from root: /ROOT/mesh/add/SBS_58_767
+[6/14/2024, 12:14:44 AM][SBS_831_577] WARNING: Received a message from root, but the server is not part of the mesh yet.
+[6/14/2024, 12:14:44 AM][SBS_831_577] Received message from root: /ROOT/mesh/add/SBS_831_577
+[6/14/2024, 12:14:44 AM][SBS_824_233] WARNING: Received a routing table with a lower or equal version (4) than this routing table (4). No update required.
+[6/14/2024, 12:14:44 AM][SBS_824_233] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_824_233] WARNING: Received a routing table with a lower or equal version (4) than this routing table (4). No update required.
+[6/14/2024, 12:14:44 AM][SBS_831_577][updateRTable] Updating routing table.
+[6/14/2024, 12:14:44 AM][SBS_58_767][updateRTable] Updating routing table.
+[6/14/2024, 12:14:44 AM][SBS_831_577_Lookup] Lookup table created.
+[6/14/2024, 12:14:44 AM][SBS_58_767_Lookup] Lookup table created.
+[6/14/2024, 12:14:44 AM][SBS_831_577_Lookup] Requesting update with version: 1
+[6/14/2024, 12:14:44 AM][SBS_58_767_Lookup] Requesting update with version: 1
+[6/14/2024, 12:14:44 AM][SBS_831_577_Lookup] Updating server handles with version: 1
+[6/14/2024, 12:14:44 AM][SBS_831_577_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:44 AM][SBS_58_767_Lookup] Updating server handles with version: 1
+[6/14/2024, 12:14:44 AM][SBS_824_233_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:44 AM][SBS_58_767_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:44 AM][SBS_58_767] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:44 AM][SBS_58_767] WARNING: Received a routing table with a lower or equal version (4) than this routing table (4). No update required.
+[6/14/2024, 12:14:44 AM][SBS_58_767_Lookup] WARNING: Trying to connect to itself.
+[6/14/2024, 12:14:44 AM][SBS_824_233_Lookup] Registered specific handles.
+[6/14/2024, 12:14:44 AM][SBS_824_233_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:44 AM][SBS_824_233_Lookup] Updated server handles with version: 1
+[6/14/2024, 12:14:44 AM][SBS_824_233] NEW SERVING REGION: [[0, 0], [0, 259], [855, 259], [855, 0]]
+[6/14/2024, 12:14:44 AM][SBS_824_233] Successfully added server to mesh.
+[6/14/2024, 12:14:44 AM][SBS_58_767_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:44 AM][SBS_58_767_Lookup] Registered specific handles.
+[6/14/2024, 12:14:44 AM][SBS_58_767_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:44 AM][SBS_58_767_Lookup] Updated server handles with version: 1
+[6/14/2024, 12:14:44 AM][SBS_58_767] NEW SERVING REGION: [[0, 259], [0, 1000], [455, 1000], [455, 259]]
+[6/14/2024, 12:14:44 AM][SBS_58_767] Successfully added server to mesh.
+[6/14/2024, 12:14:44 AM][SBS_831_577_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:44 AM][SBS_831_577_Lookup] Registered specific handles.
+[6/14/2024, 12:14:44 AM][SBS_831_577_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:44 AM][SBS_831_577_Lookup] Updated server handles with version: 1
+[6/14/2024, 12:14:44 AM][SBS_831_577] NEW SERVING REGION: [[455, 439], [455, 1000], [1000, 1000], [1000, 439]]
+[6/14/2024, 12:14:44 AM][SBS_831_577] Successfully added server to mesh.
+####
+Mesh Setup has ended
+####
+
+####
+TimeStamp : 1 --- Command : performance_5 
+####
+Starting server on ip 127.0.0.1 and port 1888 at 0, 0
+[6/14/2024, 12:14:45 AM][SBS_0_0] Server created. Coordinates: 0, 0
+[6/14/2024, 12:14:45 AM][SBS_0_0] Server connected to root.
+[6/14/2024, 12:14:45 AM][SBS_0_0] Subscribed to root topics.
+[6/14/2024, 12:14:45 AM][SBS_0_0] Server started.
+[6/14/2024, 12:14:45 AM][Shell_SBS_0_0] Connection status: CONNECTED
+> [6/14/2024, 12:14:45 AM][SBS_852_300] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:45 AM][SBS_852_300][updateRTable] Updating routing table.
+[6/14/2024, 12:14:45 AM][SBS_852_300_Lookup] Requesting update with version: 3
+[6/14/2024, 12:14:45 AM][SBS_852_300] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:45 AM][SBS_852_300] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:45 AM][SBS_852_300_Lookup] Updating server handles with version: 3
+[6/14/2024, 12:14:45 AM][SBS_824_233] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:45 AM][SBS_824_233][updateRTable] Updating routing table.
+[6/14/2024, 12:14:45 AM][SBS_824_233_Lookup] Requesting update with version: 2
+[6/14/2024, 12:14:45 AM][SBS_824_233] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:45 AM][SBS_824_233_Lookup] Updating server handles with version: 2
+[6/14/2024, 12:14:45 AM][SBS_824_233_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:45 AM][SBS_58_767] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:45 AM][SBS_58_767][updateRTable] Updating routing table.
+[6/14/2024, 12:14:45 AM][SBS_58_767_Lookup] Requesting update with version: 2
+[6/14/2024, 12:14:45 AM][SBS_58_767] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:45 AM][SBS_58_767_Lookup] Updating server handles with version: 2
+[6/14/2024, 12:14:45 AM][SBS_58_767_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:45 AM][SBS_831_577] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:45 AM][SBS_852_300_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:45 AM][SBS_0_0] Received message from root: /ROOT/mesh
+[6/14/2024, 12:14:45 AM][SBS_831_577][updateRTable] Updating routing table.
+[6/14/2024, 12:14:45 AM][SBS_831_577_Lookup] Requesting update with version: 2
+[6/14/2024, 12:14:45 AM][SBS_831_577] Update version mismatch. Ignoring update.
+[6/14/2024, 12:14:45 AM][SBS_831_577_Lookup] Updating server handles with version: 2
+[6/14/2024, 12:14:45 AM][SBS_831_577_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:45 AM][SBS_0_0] WARNING: Received a message from root, but the server is not part of the mesh yet.
+[6/14/2024, 12:14:45 AM][SBS_0_0] Received message from root: /ROOT/mesh/add/SBS_0_0
+[6/14/2024, 12:14:45 AM][SBS_852_300_Lookup] WARNING: Trying to connect to itself.
+[6/14/2024, 12:14:45 AM][SBS_852_300_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:45 AM][SBS_852_300_Lookup] Registered specific handles.
+[6/14/2024, 12:14:45 AM][SBS_0_0][updateRTable] Updating routing table.
+[6/14/2024, 12:14:45 AM][SBS_0_0_Lookup] Lookup table created.
+[6/14/2024, 12:14:45 AM][SBS_824_233_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:45 AM][SBS_824_233_Lookup] Registered specific handles.
+[6/14/2024, 12:14:45 AM][SBS_0_0_Lookup] Requesting update with version: 1
+[6/14/2024, 12:14:45 AM][SBS_0_0_Lookup] Updating server handles with version: 1
+[6/14/2024, 12:14:45 AM][SBS_58_767_Lookup] WARNING: Trying to connect to itself.
+[6/14/2024, 12:14:45 AM][SBS_831_577_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:45 AM][SBS_831_577_Lookup] Registered specific handles.
+[6/14/2024, 12:14:45 AM][SBS_58_767_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:45 AM][SBS_58_767_Lookup] Registered specific handles.
+[6/14/2024, 12:14:45 AM][SBS_0_0_Lookup] About to register representatives in the subtree.
+[6/14/2024, 12:14:45 AM][SBS_0_0_Lookup] WARNING: Trying to connect to itself.
+[6/14/2024, 12:14:45 AM][SBS_852_300_Lookup] Handle closed for key: SBS_824_233
+[6/14/2024, 12:14:45 AM][SBS_824_233_Lookup] Handle closed for key: SB_Root_885_217
+[6/14/2024, 12:14:45 AM][SBS_852_300_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:45 AM][SBS_852_300_Lookup] Updated server handles with version: 3
+[6/14/2024, 12:14:45 AM][SBS_852_300] NEW SERVING REGION: [[455, 259], [455, 439], [1000, 439], [1000, 259]]
+[6/14/2024, 12:14:45 AM][SBS_824_233_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:45 AM][SBS_824_233_Lookup] Updated server handles with version: 2
+[6/14/2024, 12:14:45 AM][SBS_824_233] NEW SERVING REGION: [[412, 0], [412, 259], [855, 259], [855, 0]]
+[6/14/2024, 12:14:45 AM][SBS_831_577_Lookup] Handle closed for key: SBS_824_233
+[6/14/2024, 12:14:45 AM][SBS_831_577_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:45 AM][SBS_831_577_Lookup] Updated server handles with version: 2
+[6/14/2024, 12:14:45 AM][SBS_58_767_Lookup] Handle closed for key: SBS_824_233
+[6/14/2024, 12:14:45 AM][SBS_831_577] NEW SERVING REGION: [[455, 439], [455, 1000], [1000, 1000], [1000, 439]]
+[6/14/2024, 12:14:45 AM][SBS_58_767_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:45 AM][SBS_58_767_Lookup] Updated server handles with version: 2
+[6/14/2024, 12:14:45 AM][SBS_58_767] NEW SERVING REGION: [[0, 259], [0, 1000], [455, 1000], [455, 259]]
+[6/14/2024, 12:14:45 AM][SBS_0_0_Lookup] Registered representatives in the subtree.
+[6/14/2024, 12:14:45 AM][SBS_0_0_Lookup] Registered specific handles.
+[6/14/2024, 12:14:45 AM][SBS_0_0_Lookup] Cleaned up handles.
+[6/14/2024, 12:14:45 AM][SBS_0_0_Lookup] Updated server handles with version: 1
+[6/14/2024, 12:14:45 AM][SBS_0_0] NEW SERVING REGION: [[0, 0], [0, 259], [412, 259], [412, 0]]
+[6/14/2024, 12:14:45 AM][SBS_0_0] Successfully added server to mesh.

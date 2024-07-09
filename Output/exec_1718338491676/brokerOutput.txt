@@ -1,0 +1,56 @@
+1718338492: mosquitto version 2.0.18 starting
+1718338492: Using default config.
+1718338492: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1718338492: Create a configuration file which defines a listener to allow remote access.
+1718338492: For more details see https://mosquitto.org/documentation/authentication-methods/
+1718338492: Opening ipv4 listen socket on port 1888.
+1718338492: Opening ipv6 listen socket on port 1888.
+1718338492: mosquitto version 2.0.18 running
+1718338492: New connection from 127.0.0.1:58095 on port 1888.
+1718338492: New client connected from 127.0.0.1:58095 as SBS_0_0 (p2, c1, k60).
+1718338492: New connection from 127.0.0.1:58096 on port 1888.
+1718338492: New client connected from 127.0.0.1:58096 as Shell_SBS_0_0 (p2, c1, k60).
+1718338492: New connection from 127.0.0.1:58097 on port 1888.
+1718338492: New client connected from 127.0.0.1:58097 as SB_Root_712_559_Lookup (p2, c1, k60).
+1718338492: New connection from 127.0.0.1:58098 on port 1888.
+1718338492: New connection from 127.0.0.1:58099 on port 1888.
+1718338492: New client connected from 127.0.0.1:58098 as SBS_913_41_Lookup (p2, c1, k60).
+1718338492: New client connected from 127.0.0.1:58099 as SBS_780_61_Lookup (p2, c1, k60).
+1718338492: New connection from 127.0.0.1:58100 on port 1888.
+1718338492: New client connected from 127.0.0.1:58100 as SBS_558_550_Lookup (p2, c1, k60).
+171833811718338492: New connection from 127.0.0.1:58103 on port 1884.
+1718338492: New client connected from 127.0.0.1:58103 as SBS_0_0_Lookup (p2, c1, k617111718338492: New connection from 127.0.0.1:58111 on port 1884.
+1718338492: New client connected from 127.0.0.1:58111 as SBS_0_333_Lookup (p2, c1, k60).11718338492: New connection from 127.0.0.1:58124 on port 1884.
+1718338492: New client connected from 127.0.0.1:58124 as SBS_0_666_Lookup (p2, c1, k60).
+
+1718338492: New connection from 127.0.0.1:58125 on port 1886.
+1718338492: New client connected from 127.0.0.1:58125 as SBS_0_666_Lookup (p2, c1, k60).
+ connection from 127.0.0.1:58109 on port 1888.
+1718338492: New client connected from 127.0.0.1:58109 as SBS_0_333_Lookup (p2, c1, k60).
+1718338492: New connection from 127.0.0.1:58113 on port 1888.
+1718338492: New client connected from 127.0.0.1:58113 as SBS_0_666 (p2, c1, k60).
+1718338492: New connection from 127.0.0.1:58114 on port 1888.
+1718338492: New connection from 127.0.0.1:58115 on port 1888.
+1718338492: Client SB_Root_712_559_Lookup already connected, closing old connection.
+1718338492: New client connected from 127.0.0.1:58115 as SB_Root_712_559_Lookup (p2, c1, k60).
+1718338492: New client connected from 127.0.0.1:58114 as Shell_SBS_0_666 (p2, c1, k60).
+1718338492: New connection from 127.0.0.1:58117 on port 1888.
+1718338492: Client SBS_780_61_Lookup already connected, closing old connection.
+1718338492: New client connected from 127.0.0.1:58117 as SBS_780_61_Lookup (p2, c1, k60).
+1718338492: New connection from 127.0.0.1:58116 on port 1888.
+1718338492: New connection from 127.0.0.1:58118 on port 1888.
+1718338492: New connection from 127.0.0.1:58119 on port 1888.
+1718338492: Client SBS_913_41_Lookup already connected, closing old connection.
+1718338492: New client connected from 127.0.0.1:58116 as SBS_913_41_Lookup (p2, c1, k60).
+1718338492: Client SBS_558_550_Lookup already connected, closing old connection.
+1718338492: New client connected from 127.0.0.1:58118 as SBS_558_550_Lookup (p2, c1, k60).
+1718338492: Client SBS_0_0_Lookup already connected, closing old connection.
+1718338492: New client connected from 127.0.0.1:58119 as SBS_0_0_Lookup (p2, c1, k60).
+1718338492: New connection from 127.0.0.1:58120 on port 1888.
+1718338492: Client SBS_100_884_Lookup already connected, closing old connection.
+1718338492: New client connected from 127.0.0.1:58120 as SBS_100_884_Lookup (p2, c1, k60).
+1718338492: New connection from 127.0.0.1:58121 on port 1888.
+1718338492: Client SBS_0_333_Lookup already connected, closing old connection.
+1718338492: New client connected from 127.0.0.1:58121 as SBS_0_333_Lookup (p2, c1, k60).
+1718338492: New connection from 127.0.0.1:58122 on port 1888.
+1718338492: New client connected from 127.0.0.1:58122 as SBS_0_666_Lookup (p2, c1, k60).
